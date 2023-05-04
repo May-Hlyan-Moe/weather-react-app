@@ -1,0 +1,113 @@
+.weather {
+    font-family: 'Quicksand', sans-serif;
+    width: 610px;
+    background-color: #e8ecf7;
+    border: 1px solid #DBDFEA;
+    border-radius: 20px;
+    padding: 20px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 1px 10px 10px #4b6670;
+}
+
+.btn-primary {
+    padding: 6px 20px;
+    background-color: #3A98B9 !important;
+    border: 1px solid #3A98B9 !important;
+}
+
+.ForecastDay {
+    text-align: center;
+}
+
+.temperature {
+    font-size: 69px;
+}
+
+#unit {
+    position: relative;
+    top: -40px;
+    font-size: 15px;
+}
+
+.code {
+  color  : #5F6769;
+  text-align: center;
+}
+
+a {
+    color  : #5F6769;
+}
+
+.celsius {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.celsius:hover {
+    color: #5F6769;
+}
+
+.fahrenheit:hover {
+    color: #5F6769;
+}
+
+.fahrenheit {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.temp-min {
+    opacity: 0.6;
+}
+
+#four-items {
+    border: 1px solid #C0DBEA;
+    border-radius: 20px;
+    background-color: #C0DBEA;
+}
+
+#each-item {
+    padding: 10px;
+    text-align: center;
+}
+
+#number {
+    font-size: 30px;
+}
+
+#title {
+    opacity: 0.6;
+}
+
+#forecast {
+    border: 1px solid #C0DBEA;
+    border-radius: 20px;
+    padding-right: 30px;
+    background-color: #C0DBEA;
+}
+
+.seven-day {
+    margin: 14px 0 14px 10px;
+    color: #5F6769;
+}
+
+#spinner {
+    font-size: 100px;
+}
+
+.icon-spinner {
+    position: absolute;
+    left: calc(45% - .5em);
+    top: calc(40% - .5em);
+    right: calc(50% - .5em);
+    bottom: calc(50% - .5em);
+}
+
+
+
+
+    
+
