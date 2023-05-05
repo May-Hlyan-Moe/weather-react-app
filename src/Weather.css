@@ -120,7 +120,8 @@ a {
     }
 
     #each-day {
-        display: ruby-base-container;  
+        width: 200px;
+        margin: 0 auto;
     }
 
     .form-control {
