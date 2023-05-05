@@ -101,7 +101,7 @@ a {
 .icon-spinner {
     position: absolute;
     left: calc(45% - .5em);
-    top: calc(40% - .5em);
+    top: calc(45% - .5em);
     right: calc(50% - .5em);
     bottom: calc(50% - .5em);
 }
@@ -120,7 +120,7 @@ a {
     }
 
     #each-day {
-        display: ruby;  
+        display: ruby-base-container;  
     }
 
     .form-control {
