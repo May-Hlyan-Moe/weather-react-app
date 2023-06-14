@@ -70,7 +70,7 @@ export default function Weather (props) {
             </div> <br />
             <div className="code">
                 <a href="https://github.com/May-Hlyan-Moe/weather-react-app">open-sourced code</a> by 
-                <a href="https://vocal-sprite-ab24fc.netlify.app/"> May Hlyan Moe</a>
+                <a href="https://may-hlyan-moe.netlify.app/"> May Hlyan Moe</a>
             </div>
         </div>
     )} else {
